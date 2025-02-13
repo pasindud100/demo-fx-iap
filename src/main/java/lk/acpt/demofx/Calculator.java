@@ -73,6 +73,10 @@ public class Calculator {
            case "substraction":
                txtAns.setText(String.valueOf(num1 - num2));
                break;
+
+               default:
+                   break;
+
         }
 
     }
