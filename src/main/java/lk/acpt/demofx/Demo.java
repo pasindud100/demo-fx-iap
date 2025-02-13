@@ -12,7 +12,13 @@ import java.util.HashMap;
          CustomerInterface cusInterface = new CustomerInterface() {
              @Override
              public void pay() {
-                 System.out.println("Paying to customer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+
              }
 
              @Override
