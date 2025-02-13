@@ -13,6 +13,12 @@ import java.util.HashMap;
              @Override
              public void pay() {
                  System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
+
              }
 
              @Override
