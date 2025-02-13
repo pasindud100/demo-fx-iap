@@ -14,6 +14,7 @@ import java.util.HashMap;
              public void pay() {
                  System.out.println("Payinghgyu to cujhustomer");
                  System.out.println("Payinghgyu to cujhustomer");
+                 System.out.println("Payinghgyu to cujhustomer");
 
              }
 
